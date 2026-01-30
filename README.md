@@ -25,11 +25,11 @@ the start of the dataset can contain many similar scenes as the inspector activa
 
 | Bridge                | Google Drive Link                                                                     |
 |-----------------------|---------------------------------------------------------------------------------------|
-| Belmont St. (B1)      | https://drive.google.com/file/d/1WOfyBGpvxnMcwsETgrnHjVhOf3k8nCat/view?usp=drive_link |
-| Iron Horse Trail (B2) | https://drive.google.com/file/d/14WyLNDA-kIxmn8oILWmV7smDfflLNuug/view?usp=drive_link |
-| Park St.  (B3)        | https://drive.google.com/file/d/1WiDK-cePBXpT-W0a5X8G9nW1C4cA8uXK/view?usp=drive_link |
-| King St. (B4)         | https://drive.google.com/file/d/1gxfHjmOpAAaxew2ygO4p8bl2IlWEayBO/view?usp=drive_link |
-| Weber St. (B5)        | https://drive.google.com/file/d/1Qf1IhvJAm7iMNya51voMdPkvkRBrm8lN/view?usp=drive_link |
+| Belmont St. (B1)      | https://drive.google.com/file/d/1VCL-AxprYEodG8rI10IF4_2lQFd_0bFV/view?usp=drive_link |
+| Iron Horse Trail (B2) | https://drive.google.com/file/d/1JkyAWhtgRz13JtH9Uid_wSxezwIf379W/view?usp=drive_link |
+| Park St.  (B3)        | https://drive.google.com/file/d/1HwFTfDYdVrrF551BGn5zqix_JJAlyYoE/view?usp=drive_link |
+| King St. (B4)         | https://drive.google.com/file/d/1aN7Sf7wq1oRx-63E-zrz8nXuvgoS0v7p/view?usp=drive_link |
+| Weber St. (B5)        | https://drive.google.com/file/d/1o9ARrPy6XTRiRsvKTZug-OgoS4dnpguw/view?usp=drive_link |
 
 Below are RGB and colourized depth images. 
 
